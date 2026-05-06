@@ -48,7 +48,7 @@ export const keynotes: Keynote[] = [
     siteUrl: "https://engineering.nyu.edu/faculty/nizar-touzi",
     initials: "NT",
     bio:
-      "Professor at New York University, Chair of the Department of Finance and Risk Engineering at the Tandon School of Engineering. He was previously Professor at Department of Applied Mathematics of Ecole Polytechnique in France from 2006 to 2023. He was an invited session speaker at the International Congress of Mathematicians (Hyderabad 2010). He received the Louis Bachelier Natixis prize of the French Academy of Sciences in 2012, the Paris Europlace prize of Best Young Researcher in Finance in 2007, and he was awarded an Advanced ERC grant 2012-2017. He has several editorial responsibilities in various international journals in the fields of financial mathematics, applied probability, and control theory.",
+      "Professor at New York University, Chair of the Department of Finance and Risk Engineering at the Tandon School of Engineering. He was previously Professor at Department of Applied Mathematics of École Polytechnique in France from 2006 to 2023. He was an invited session speaker at the International Congress of Mathematicians (Hyderabad 2010). He received the Louis Bachelier Natixis prize of the French Academy of Sciences in 2012, the Paris Europlace prize of Best Young Researcher in Finance in 2007, and he was awarded an Advanced ERC grant 2012-2017. He has several editorial responsibilities in various international journals in the fields of financial mathematics, applied probability, and control theory.",
     imageSrc: "/Touzi.jpg",
   }
 ]
