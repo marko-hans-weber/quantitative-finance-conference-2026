@@ -66,6 +66,21 @@ export default function Workshop() {
 						<div className="mx-auto mt-8 max-w-3xl space-y-4 text-sm leading-relaxed text-muted-foreground md:text-base text-justify">
 							<p>The QF Workshop provides focused sessions on specialized topics in quantitative finance. It offers an excellent opportunity for researchers and practitioners to engage in in-depth discussions and collaborative problem-solving.</p>
 							<p>The workshop will feature invited presentations and interactive sessions designed to foster knowledge exchange and networking among participants.</p>
+							<p>
+							    The workshop program is available here:
+							  </p>
+							
+							  <div className="mt-6 sm:mt-8 text-center">
+								<a href="/NUS_QF_Workshop_2026_Programme.pdf" target="_blank" rel="noreferrer">
+							      <Button
+							        size="lg"
+							        variant="outline"
+							        className="w-full sm:w-auto rounded-full transition-colors shadow-md hover:shadow-lg cursor-pointer"
+							      >
+							        View Workshop Program
+							      </Button>
+							    </a>
+							  </div>
 							<p>Registration for Workshop only:</p>
 							<div className="mt-6 sm:mt-8 text-center">
 								<a href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-glpST3DWaXhCv1ms4wwV109UMUNEVkpVMjE0NEZEUDRaWU85UjEyNTlMOCQlQCN0PWcu&route=shorturl" target="_blank" rel="noreferrer">
