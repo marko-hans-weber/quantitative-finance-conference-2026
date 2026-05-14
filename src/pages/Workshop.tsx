@@ -11,7 +11,6 @@ const workshopSpeakers = [
 	{ name: "Patrick Cheridito", affiliation: "ETH Zürich" },
 	{ name: "Umut Çetin", affiliation: "The London School of Economics and Political Science" },
 	{ name: "Paolo Guasoni", affiliation: "Dublin City University" },
-	{ name: "Sebastian Jaimungal", affiliation: "University of Toronto" },
 	{ name: "Anastasis Kratsios", affiliation: "McMaster University and Vector Institute" },
 	{ name: "Kasper Larsen", affiliation: "Rutgers University" },
 	{ name: "Mathieu Laurière", affiliation: "NYU Shanghai" },
