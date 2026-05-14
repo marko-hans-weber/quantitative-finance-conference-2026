@@ -34,7 +34,18 @@ export default function Workshop() {
 					<div className="flex min-h-[260px] items-center sm:min-h-[420px] lg:min-h-[560px]">
 						<div className="mx-auto max-w-xl text-center text-white sm:max-w-3xl lg:max-w-5xl">
 							<h1 className="text-xl font-bold leading-tight sm:text-3xl md:text-4xl lg:text-5xl drop-shadow-lg">Workshop</h1>
-							<p className="mt-3 text-sm sm:text-base md:text-lg lg:text-xl drop-shadow-md">8–9 June 2026 · Singapore</p>
+							<p className="mt-3 text-sm sm:text-base md:text-lg lg:text-xl drop-shadow-md">8–9 June 2026 · Singapore</p>       
+							<div className="mt-6 flex justify-center">
+					          <a
+					            href="/NUS_QF_Workshop_2026_Programme.pdf"
+					            target="_blank"
+					            rel="noreferrer"
+					          >
+					             <Button size="lg" className="w-full sm:w-auto rounded-full bg-accent text-accent-foreground transition-colors shadow-md hover:bg-accent/90 hover:shadow-lg cursor-pointer">
+					              View Workshop Programme
+					            </Button>
+					          </a>
+					        </div>
 							<div className="mt-4 flex flex-wrap items-center justify-center gap-3 text-xs sm:text-sm opacity-95">
 								<span className="hidden sm:inline-flex items-center gap-2"><Landmark className="h-4 w-4" />Center for Quantitative Finance X Institute for Mathematical Sciences, NUS</span>
 							</div>
@@ -72,11 +83,7 @@ export default function Workshop() {
 							
 							  <div className="mt-6 sm:mt-8 text-center">
 								<a href="/NUS_QF_Workshop_2026_Programme.pdf" target="_blank" rel="noreferrer">
-							      <Button
-							        size="lg"
-							        variant="outline"
-							        className="w-full sm:w-auto rounded-full transition-colors shadow-md hover:shadow-lg cursor-pointer"
-							      >
+							      <Button size="lg" className="w-full sm:w-auto rounded-full bg-accent text-accent-foreground transition-colors shadow-md hover:bg-accent/90 hover:shadow-lg cursor-pointer">
 							        View Workshop Program
 							      </Button>
 							    </a>
